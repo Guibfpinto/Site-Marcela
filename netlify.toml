@@ -1,0 +1,4 @@
+# Site estático (HTML/CSS/JS puro): não precisa de build.
+[build]
+  publish = "."
+  command = "echo 'Site estatico - sem build'"
